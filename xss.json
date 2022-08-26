@@ -1,0 +1,11 @@
+{
+  "url": "https://raw.githubusercontent.com/well0x01/swagger-xss/main/xss.yaml",
+  "urls": [
+    {
+      "url": "https://raw.githubusercontent.com/well0x01/swagger-xss/main/xss.yaml",
+      "name": "Foo"
+    }
+    
+  ]
+
+}
